@@ -1,0 +1,4 @@
+,Model,Best Threshold,F1 Score,Accuracy,Recall,Precision
+0,Logistic Regression,0,0,0,0,0
+1,Naive-Bayes,0,0,0,0,0
+2,Random Forest,0,0,0,0,0
